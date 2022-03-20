@@ -10,6 +10,8 @@ The mixed-integer linear programming (MILP) algorithm is implemented to solve th
 ![California State As Depot](./Results/mTSP_5_Cali.png)
 ![Kansas State As Depot](./Results/mTSP_5_Kan.png)
 
+## MATLAB Requirement:
+1.) Download Global Optimization Toolbox - https://www.mathworks.com/products/global-optimization.html
 
 ## How to Run "Visual-Inertial SLAM"?
 1.) Open up the "main_Path_Planning.m" with MATLAB 2021a or newer.
